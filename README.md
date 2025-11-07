@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋I'm İrem Berin    
 
-<!--
-**irem-berin/irem-berin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Physics undergraduate student** with a strong interest in **software, artificial intelligence, and cybersecurity**.  
+💻 I actively work with **Python**, **Mathematica**, **SageMath**, **Linux**, and **OpenAI Whisper**.  
 
-Here are some ideas to get you started:
+## 🧠 About Me / Hakkımda
+- 🔬 Physics student with an analytical and problem-solving mindset  
+- 💡 Passionate about the intersection of **science and technology**  
+- 🧩 Interested in **AI-based speech recognition**, **cryptography**, and **data-driven applications**
+ 
+- 🌱 Currently improving my knowledge in:  
+  - Python programming and Linux systems  
+  - AI models like Whisper  
+  - Symbolic computation with Mathematica & SageMath  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack / Kullandığım Teknolojiler
+**Languages / Diller:**  
+Python • Wolfram Language (Mathematica) • LaTeX  
+
+**Tools & Environments / Araçlar ve Ortamlar:**  
+Jupyter Notebook • SageMath • Git • Linux • Whisper AI  
+
+**Skills / Yetenekler:**  
+Data Analysis • Speech Recognition • Mathematical Modeling • Scientific Computing  
+
+
+## 📫 Contact / İletişim
+📧 **[iremberin15@gmail.com]**  
+
+
+> 🔬  “Combining science with software to create a safer, smarter digital future.”  
+
