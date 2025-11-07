@@ -3,7 +3,7 @@
 🎓 I'm a **Physics undergraduate student** with a strong interest in **software, artificial intelligence, and cybersecurity**.  
 💻 I actively work with **Python**, **Mathematica**, **SageMath**, **Linux**, and **OpenAI Whisper**.  
 
-## 🧠 About Me / Hakkımda
+## 🧠 About Me 
 - 🔬 Physics student with an analytical and problem-solving mindset  
 - 💡 Passionate about the intersection of **science and technology**  
 - 🧩 Interested in **AI-based speech recognition**, **cryptography**, and **data-driven applications**
@@ -13,18 +13,18 @@
   - AI models like Whisper  
   - Symbolic computation with Mathematica & SageMath  
 
-## 🛠️ Tech Stack / Kullandığım Teknolojiler
-**Languages / Diller:**  
+## 🛠️ Tech Stack
+**Languages :**  
 Python • Wolfram Language (Mathematica) • LaTeX  
 
-**Tools & Environments / Araçlar ve Ortamlar:**  
+**Tools & Environments :**  
 Jupyter Notebook • SageMath • Git • Linux • Whisper AI  
 
-**Skills / Yetenekler:**  
+**Skills:**  
 Data Analysis • Speech Recognition • Mathematical Modeling • Scientific Computing  
 
 
-## 📫 Contact / İletişim
+## 📫 Contact 
 📧 **[iremberin15@gmail.com]**  
 
 
